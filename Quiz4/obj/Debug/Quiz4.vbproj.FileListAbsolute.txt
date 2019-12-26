@@ -1,0 +1,11 @@
+C:\Users\Nick\Dropbox\Quiz4\bin\Debug\Quiz4.exe.config
+C:\Users\Nick\Dropbox\Quiz4\bin\Debug\Quiz4.exe
+C:\Users\Nick\Dropbox\Quiz4\bin\Debug\Quiz4.pdb
+C:\Users\Nick\Dropbox\Quiz4\bin\Debug\Quiz4.xml
+C:\Users\Nick\Dropbox\Quiz4\obj\Debug\Quiz4.vbprojAssemblyReference.cache
+C:\Users\Nick\Dropbox\Quiz4\obj\Debug\Quiz4.Form1.resources
+C:\Users\Nick\Dropbox\Quiz4\obj\Debug\Quiz4.Resources.resources
+C:\Users\Nick\Dropbox\Quiz4\obj\Debug\Quiz4.vbproj.GenerateResource.cache
+C:\Users\Nick\Dropbox\Quiz4\obj\Debug\Quiz4.exe
+C:\Users\Nick\Dropbox\Quiz4\obj\Debug\Quiz4.xml
+C:\Users\Nick\Dropbox\Quiz4\obj\Debug\Quiz4.pdb

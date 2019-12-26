@@ -1,0 +1,11 @@
+C:\Users\Nick\Dropbox\Quiz5\bin\Debug\Quiz5.exe.config
+C:\Users\Nick\Dropbox\Quiz5\bin\Debug\Quiz5.exe
+C:\Users\Nick\Dropbox\Quiz5\bin\Debug\Quiz5.pdb
+C:\Users\Nick\Dropbox\Quiz5\bin\Debug\Quiz5.xml
+C:\Users\Nick\Dropbox\Quiz5\obj\Debug\Quiz5.vbprojAssemblyReference.cache
+C:\Users\Nick\Dropbox\Quiz5\obj\Debug\Quiz5.Form1.resources
+C:\Users\Nick\Dropbox\Quiz5\obj\Debug\Quiz5.Resources.resources
+C:\Users\Nick\Dropbox\Quiz5\obj\Debug\Quiz5.vbproj.GenerateResource.cache
+C:\Users\Nick\Dropbox\Quiz5\obj\Debug\Quiz5.exe
+C:\Users\Nick\Dropbox\Quiz5\obj\Debug\Quiz5.xml
+C:\Users\Nick\Dropbox\Quiz5\obj\Debug\Quiz5.pdb

@@ -1,0 +1,11 @@
+S:\Storage_Documents\Programming\TextFile\bin\Debug\TextFile.exe.config
+S:\Storage_Documents\Programming\TextFile\bin\Debug\TextFile.exe
+S:\Storage_Documents\Programming\TextFile\bin\Debug\TextFile.pdb
+S:\Storage_Documents\Programming\TextFile\bin\Debug\TextFile.xml
+S:\Storage_Documents\Programming\TextFile\obj\Debug\TextFile.vbprojAssemblyReference.cache
+S:\Storage_Documents\Programming\TextFile\obj\Debug\TextFile.Form1.resources
+S:\Storage_Documents\Programming\TextFile\obj\Debug\TextFile.Resources.resources
+S:\Storage_Documents\Programming\TextFile\obj\Debug\TextFile.vbproj.GenerateResource.cache
+S:\Storage_Documents\Programming\TextFile\obj\Debug\TextFile.exe
+S:\Storage_Documents\Programming\TextFile\obj\Debug\TextFile.xml
+S:\Storage_Documents\Programming\TextFile\obj\Debug\TextFile.pdb
